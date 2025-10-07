@@ -25,7 +25,7 @@ export default function Login() {
 
       <TouchableOpacity style={styles.button}>
         <ThemedText type="defaultSemiBold" style={styles.buttonText}>
-          Login
+          Login!
         </ThemedText>
       </TouchableOpacity>
     </ThemedView>
